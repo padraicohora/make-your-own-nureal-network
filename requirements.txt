@@ -1,0 +1,5 @@
+# Main dependencies (none for this simple project)
+
+# Development tools
+black==24.3.0
+flake8==6.1.0
